@@ -6,12 +6,6 @@ Users can draw a digit on a canvas, and the model will predict what number it is
 
 ---
 
-## 🚀 Live Demo
-
-🌐 [Visit the Web App](https://your-netlify-url.netlify.app)
-
----
-
 ## ✨ Features
 
 - Draw digits directly on a canvas

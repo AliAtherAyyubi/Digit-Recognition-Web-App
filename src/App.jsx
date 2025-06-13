@@ -12,6 +12,7 @@ function App() {
     <h1 className='heading'>Handwritten Digit Recognition Model</h1>
       {/* <Upload /> */}
       <CanvasDraw/>
+      
     </>
   )
 }

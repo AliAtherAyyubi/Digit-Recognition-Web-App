@@ -47,8 +47,10 @@ Model achieves high accuracy on handwritten digit recognition.
 ---
 
 ## 🖼️ Screenshots
+### Screenshot 1
+ ![](./Screenshots/Screenshot%202025-06-13%20123648.png)
+### Screenshot 2
 
- ![](https://github.com/AliAtherAyyubi/Digit-Recognition-Web-App/blob/main/Screenshots/Screenshot%202025-06-13%20123648.png)
  ![](./Screenshots/Screenshot%202025-06-13%20123714.png)
 ---
 
